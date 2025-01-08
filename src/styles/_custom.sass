@@ -20,11 +20,14 @@
     background-color: #FBEADF
   &-2
     background-color: #98CFD6
-    
   &-3
-    background-color: #F0E9F6
+    background-color: #D4DDF0
   &-4
-    background-color: #EAF8FD
+    background-color: #183164
+  &-5
+    background-color: #E3FBF2
+
+
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -55,8 +58,8 @@
     background-image: url("../assets/bg/bg1.png") !important
     background-position-y: -135px
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
-    background-position: bottom
+    background-image: url("../assets/bg/bg2.png") !important
+    background-position-y: -95px
   &-slider
     background-image: url("../assets/bg/bg-slider.png") !important
     background-position: bottom
@@ -168,7 +171,7 @@ $custom-card-img-height: 322px
   background-color: #F8BC17
 
 .img-infografica__card, .img-infografica-b__card
-  width: 350px !important
+  width: 550px !important
   
 .img-infografica__item__numero
   font-weight: 900
@@ -211,3 +214,27 @@ $custom-card-img-height: 322px
   a
     text-decoration: none
     color: $color-sistema-texto
+
+
+.bg-h85
+  position: relative
+  &::after
+    content: ''
+    position: absolute
+    bottom: 0%
+    left: 0
+    width: 100%
+    height: 94%
+    transform: translateY(-3%)
+    background-color: #D4DDF0
+    z-index: 0
+  .col-lg-11, .row
+    z-index: 1
+  .col-lg-12, .row
+    z-index: 1
+
+  @media screen and (max-width: $bp-max-md)
+    padding: 1rem
+  
+    &::after
+      height: 100%
