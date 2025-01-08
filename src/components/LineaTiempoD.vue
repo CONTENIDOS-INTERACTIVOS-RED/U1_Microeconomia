@@ -56,16 +56,16 @@ export default {
   .linea-tiempo-d__item__content__title
     padding: 28px
     border-radius: 5px 5px 0px 0px
-    background-color: lighten($color-primario, 30%)
+    background-color: #F5FDFA !important
   .linea-tiempo-d__item__content__title.active
-    background-color: $color-primario !important
+    background-color: #A4F1D6 !important
   .linea-tiempo-d__item__content__slot
     border-radius: 0px 0px 5px 5px
-    background-color: lighten($color-primario, 37%) !important
+    background-color: #E3FBF2 !important
   .linea-tiempo-d__item__number
-    background-color: lighten($color-primario, 30%)
+    background-color: #E3FBF2 !important
   .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
-    background-color: $color-primario !important
+    background-color: #A4F1D6 !important
   .linea-tiempo-d__item__dots:after
     border-left: 0px
   .fa-angle-up, .fa-angle-down

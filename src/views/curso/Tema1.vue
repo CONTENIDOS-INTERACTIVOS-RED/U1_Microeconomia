@@ -102,7 +102,7 @@
       .p-4.p-md-5
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-10
-            ImagenInfografica.color-secundario
+            ImagenInfografica.color-secundario(data-aos="zoom-in")
                 template(v-slot:imagen)
                   figure
                     img(src='@/assets/curso/tema1/info1.png', alt='', style="max-width: 874px;").mx-auto
