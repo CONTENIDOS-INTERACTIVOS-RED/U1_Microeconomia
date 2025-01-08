@@ -21,13 +21,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Definición de microeconomía y su relación con la economía general',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Subtítulo tema',
+            titulo: 'Principales objetivos de la microeconomía',
             hash: 't_1_2',
           },
         ],
@@ -36,25 +37,28 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo: 'Agentes económicos y su rol en los mercados',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Los consumidores: decisiones de consumo y maximización de utilidad',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Las empresas: producción, costos y maximización de beneficios',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'El gobierno: intervención en los mercado y corrección de fallas',
             hash: 't_2_3',
           },
         ],
@@ -63,20 +67,27 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Título tema',
+        titulo: 'Métodos de análisis económico',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Modelos económicos: simplificación de la realidad para entender el mercado',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Subtítulo tema',
+            titulo: 'Representaciones gráficas: curvas de oferta y demanda',
             hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: 'Herramientas matemáticas ecuaciones y elasticidades',
+            hash: 't_3_3',
           },
         ],
       },
@@ -118,14 +129,48 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Rodríguez Galván, J. Y. (2022). Microeconomía: teoría y ejercicios. Grupo Editorial Éxodo.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/224089',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Antelo-Suárez, M. (2015). Microeconomía intermedia en casos. Delta Publicaciones.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/170085',
+    },
+    {
+      referencia:
+        'Salas Velasco, M. (2018). Microeconomía: conceptos teóricos y aplicaciones. Difusora Larousse - Ediciones Pirámide.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/105577',
+    },
+    {
+      referencia:
+        'Vial Lira, B. (2012). Microeconomía. Ediciones Universidad Católica de Chile.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/67738',
+    },
+    {
+      referencia:
+        'Rodríguez Galván, J. Y. (2022). Microeconomía: teoría y ejercicios. Grupo Editorial Éxodo.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/224089',
+    },
+    {
+      referencia:
+        'Antelo-Suárez, M. (2015). Microeconomía intermedia en casos. Delta Publicaciones.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/170085',
+    },
+    {
+      referencia:
+        'Salas Velasco, M. (2018). Microeconomía: conceptos teóricos y aplicaciones. Difusora Larousse - Ediciones Pirámide.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/105577',
+    },
+    {
+      referencia:
+        'Vial Lira, B. (2012). Microeconomía. Ediciones Universidad Católica de Chile.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/67738',
+    },
+    {
+      referencia:
+        'Antelo-Suárez, M. (2015). Microeconomía intermedia en casos. Delta Publicaciones.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/170085',
     },
   ],
   glosario: [
