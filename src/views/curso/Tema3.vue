@@ -57,14 +57,16 @@
       .bg-full-width.bg-fondo-2
         .px-4.px-md-5.pb-md-3
 
+          p.mb-4 Los modelos económicos también pueden ser:
+
           .row.justify-content-center.align-items-stretch.mb-4
             .col-lg-6.mb-4(data-aos="zoom-in-up")
               .custom-image-card-2.h-100
                 img.custom-image-card__image(src="@/assets/curso/tema1/3.png" alt="")
                 .custom-image-card__text.p-4
                   h5.mb-2.text-center Modelos dinámicos
-                  p.mb-0 Los modelos dinámicos, incorporan cambios a lo largo del tiempo.
-                  Por ejemplo, los modelos dinámicos son útiles para estudiar fenómenos como el crecimiento económico o la evolución de los mercados financieros (Salas Velasco, 2018).
+                  p.mb-3 Los modelos dinámicos, incorporan cambios a lo largo del tiempo.
+                  p.mb-0 Por ejemplo, los modelos dinámicos son útiles para estudiar fenómenos como el crecimiento económico o la evolución de los mercados financieros (Salas Velasco, 2018).
             .col-lg-6.mb-4(data-aos="zoom-in-down")
               .custom-image-card-2.h-100
                 img.custom-image-card__image(src="@/assets/curso/tema1/4.png" alt="")
@@ -140,6 +142,8 @@
             figcaption.mt-2.text-center.mb-4 Nota: tomado y adaptado de Rodríguez Galván (2022). 
           .col-lg-5
             .bg-color-white.p-4.mb-4
+              p.mb-3 Al P₁, los demandantes están dispuestos a consumir la cantidad 1 Q₁.
+
               p.mb-0 Si aumentan los ingresos de los consumidores, al mismo precio (P₁), podrán adquirir una cantidad mayor de bienes (Q₂). La demanda #[b aumenta], por lo tanto, la curva se desplaza a la #[b derecha].
 
 
@@ -178,7 +182,7 @@
             span(v-katex="'b'")
             |  es la sensibilidad de la demanda al precio.
 
-          p(data-aos="fade-left") #[b La curva de oferta] representa la relación entre el precio de un bien y la cantidad que los productores están dispuestos a ofrecer en el mercado, manteniendo constantes los demás factores #[em (ceteris paribus)]. Cada punto en la curva indica la cantidad ofrecida a un precio específico.
+          p(data-aos="fade-left") #[b La curva de la oferta] representa la relación entre el precio de un bien y la cantidad que los productores están dispuestos a ofrecer en el mercado, manteniendo constantes los demás factores #[em (ceteris paribus)]. Cada punto en la curva indica la cantidad ofrecida a un precio específico.
 
           p(data-aos="fade-left") #[b Cambio en la cantidad ofrecida:] se refiere a un movimiento a lo largo de la curva de oferta, causado por un cambio en el precio del bien.
 

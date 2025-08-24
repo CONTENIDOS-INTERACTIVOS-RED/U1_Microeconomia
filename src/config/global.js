@@ -58,7 +58,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '2.3',
             titulo:
-              'El gobierno: intervención en los mercado y corrección de fallas',
+              'El gobierno: intervención en los mercados y corrección de fallas',
             hash: 't_2_3',
           },
         ],
@@ -147,42 +147,52 @@ export default {
         'Vial Lira, B. (2012). Microeconomía. Ediciones Universidad Católica de Chile.',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/67738',
     },
-    {
-      referencia:
-        'Rodríguez Galván, J. Y. (2022). Microeconomía: teoría y ejercicios. Grupo Editorial Éxodo.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/224089',
-    },
-    {
-      referencia:
-        'Antelo-Suárez, M. (2015). Microeconomía intermedia en casos. Delta Publicaciones.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/170085',
-    },
-    {
-      referencia:
-        'Salas Velasco, M. (2018). Microeconomía: conceptos teóricos y aplicaciones. Difusora Larousse - Ediciones Pirámide.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/105577',
-    },
-    {
-      referencia:
-        'Vial Lira, B. (2012). Microeconomía. Ediciones Universidad Católica de Chile.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/67738',
-    },
-    {
-      referencia:
-        'Antelo-Suárez, M. (2015). Microeconomía intermedia en casos. Delta Publicaciones.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/170085',
-    },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Ceteris Paribus',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'Principio económico que supone que todas las demás variables permanecen constantes, mientras se analiza el efecto de una en particular.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Curva de la demanda',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'Representación gráfica que muestra la relación inversa entre el precio de un bien y la cantidad demandada por los consumidores, manteniendo constantes, otras variables.',
+    },
+    {
+      termino: 'Curva de la oferta',
+      significado:
+        'Representación gráfica que ilustra la relación directa entre el precio de un bien y la cantidad ofrecida por los productores, manteniendo constantes, otras variables.',
+    },
+    {
+      termino: 'Demanda',
+      significado:
+        'Cantidad de bienes o servicios que los consumidores están dispuestos a adquirir en el mercado a diferentes niveles de precio, considerando condiciones como ingreso, precios de bienes relacionados y preferencias.',
+    },
+    {
+      termino: 'Elasticidad',
+      significado:
+        'Medida de la sensibilidad de una variable económica (como la cantidad demandada u ofrecida) ante cambios en otra variable (como el precio o ingreso).',
+    },
+    {
+      termino: 'Intervención del gobierno',
+      significado:
+        'Acciones del estado para corregir fallas de mercado, regular precios, proporcionar bienes públicos o redistribuir recursos.',
+    },
+    {
+      termino: 'Maximización de utilidad',
+      significado:
+        'Proceso por el cual los consumidores buscan obtener el mayor nivel de satisfacción posible, a partir de sus ingresos y las opciones disponibles.',
+    },
+    {
+      termino: 'Mercado',
+      significado:
+        'Espacio físico o virtual donde interactúan oferentes y demandantes, para intercambiar bienes, servicios o factores productivos, bajo condiciones determinadas.',
+    },
+    {
+      termino: 'Oferta',
+      significado:
+        'Cantidad de bienes o servicios que los productores están dispuestos a vender en el mercado, a diferentes niveles de precio, manteniendo constantes, otras variables.',
     },
   ],
 }

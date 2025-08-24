@@ -68,7 +68,7 @@
                 p(data-aos="fade-left").mb-5 La microeconomía se define como el estudio de cómo los individuos y las organizaciones toman decisiones sobre la asignación de recursos limitados, para satisfacer necesidades y deseos ilimitados. Mientras que la macroeconomía se concentra en aspectos amplios como el crecimiento económico y la inflación, la microeconomía se centra en aspectos más específicos, como el comportamiento del consumidor y la teoría de la producción (Antelo -Suárez, 2015).
 
                 .bg-color-4.p-4.p-lg-5
-                  p.mb-0.text-white #[b Por ejemplo], cuando se decide cómo gastar el presupuesto mensual, se están utilizando principios microeconómicos. La microeconomía busca explicar cómo se establecen los precios de los bienes y servicios, cómo se asignan los recursos entre los diferentes usos y cómo los mercados se ajustan, entre los cambios en la oferta y la demanda.]
+                  p.mb-0.text-white #[b Por ejemplo], cuando se decide cómo gastar el presupuesto mensual, se están utilizando principios microeconómicos. La microeconomía busca explicar cómo se establecen los precios de los bienes y servicios, cómo se asignan los recursos entre los diferentes usos y cómo los mercados se ajustan, entre los cambios en la oferta y la demanda.
 
 
     .row.mb-5

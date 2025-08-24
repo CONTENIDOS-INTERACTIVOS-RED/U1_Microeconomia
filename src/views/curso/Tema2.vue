@@ -163,7 +163,7 @@
 
 
       #t_2_3.titulo-segundo(data-aos="flip-up")
-        h2 #[span 2.3] El gobierno: intervención en los mercado y corrección de fallas
+        h2 #[span 2.3] El gobierno: intervención en los mercados y corrección de fallas
 
 
       .row.mb-5
@@ -187,7 +187,7 @@
 
       .row.mb-5
         .col-lg-8
-          p(data-aos="fade-left") El gobierno interviene para corregir estas fallas, ya sea regulando el comportamiento de las empresas, estableciendo impuestos para internalizar los costos sociales, o subsidiando actividades que generan beneficios para toda la sociedad, como la investigación y el desarrollo tecnológico.
+          p(data-aos="fade-left") Es decir, el Estado interviene en la economía con el propósito de corregir fallas de mercado que afectan el bienestar colectivo. Esta intervención puede tomar diversas formas, como la regulación del comportamiento empresarial para evitar prácticas monopólicas o perjudiciales, la imposición de impuestos que obliguen a las empresas a asumir los costos sociales de sus actividades. A través de estas medidas, se busca lograr una asignación más eficiente de los recursos, reducir desigualdades y promover un desarrollo económico más equitativo y sostenible.
 
           p(data-aos="fade-left") Luego, uno de los mecanismos más comunes de intervención, es el uso de impuestos y subsidios. Los impuestos correctivos se aplican a las actividades que generan externalidades negativas, como el impuesto al carbono en industrias contaminantes, incentivando prácticas más limpias y sostenibles (Salas Velasco, 2018). Por otro lado, los subsidios se utilizan para fomentar actividades que generan externalidades positivas, como la educación o la producción de energías renovables.
 
